@@ -44,7 +44,7 @@ This project covers the following Rust concepts from The Book:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/minigrep.git
+git clone https://github.com/killuazoldyck680/minigrep.git
 
 # Navigate into the project directory
 cd minigrep
