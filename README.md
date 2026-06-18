@@ -51,6 +51,7 @@ cd minigrep
 
 # Build the project
 cargo build --release
+jj
 ```
 
 ---
